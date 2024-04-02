@@ -1,0 +1,16 @@
+/Users/hairax/.ghcup/ghc/9.6.4/lib/ghc-9.6.4/lib/aarch64-osx-ghc-9.6.4/rts-1.0.2/include/ghcversion.h:
+  hash: cbc0ab805e5b827180e3116cecd3f6665988df7f45a6b64f0e09ea8c25c438ff
+? /Users/hairax/Documents/progra5/Cairo-Haskell/.stack-work/dist/aarch64-osx/ghc-9.6.4/build/my-cairo-project-exe/autogen/Paths_my_cairo_project.hs
+: hash: 3fbc499cc1b4ac3e1368dd2383e5933fc3524d3cd15ee102a07c873e8679368c
+? /Users/hairax/Documents/progra5/Cairo-Haskell/.stack-work/dist/aarch64-osx/ghc-9.6.4/build/my-cairo-project-exe/autogen/cabal_macros.h
+: hash: a41a72d3e1db8666cc3f63fb8ebeeb79700ae9787d88a1c3ed323ef170e5a6c3
+/Users/hairax/Documents/progra5/Cairo-Haskell/CHANGELOG.md:
+  hash: aecc9c31c20bd1d78267555ae1c01caf42bef9f28c6617daf3d037eac8e65020
+/Users/hairax/Documents/progra5/Cairo-Haskell/README.md:
+  hash: 5f4dfc79c253c0dbcbd4942ad3d9a1020ea1cd7360e670b093ef472237014609
+/Users/hairax/Documents/progra5/Cairo-Haskell/app/Main.hs:
+  hash: da8ef556eddadb7ef8f06c04c54482fee77d3882550ab3f12baf6f41bd0cbbad
+/Users/hairax/Documents/progra5/Cairo-Haskell/my-cairo-project.cabal:
+  hash: e2a3a64ab3d5b9c9cedddcd4e7bc9149d957b40ef3f3b1e581a563b02dc8d9e3
+/Users/hairax/Documents/progra5/Cairo-Haskell/package.yaml:
+  hash: bb86c0f3565cb535b0fe1997ed48770a96d14d5c1a5357ba6e95ba8376e01dfa
